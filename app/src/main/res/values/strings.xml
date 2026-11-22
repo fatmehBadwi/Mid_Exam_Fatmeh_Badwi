@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mid_Exam_Fatmeh_Badwi</string>
+    <string name="_1_6">1 / 6</string>
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="leonardo_da_vinci_1503">Leonardo da Vinci (1503)</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="back">Back</string>
+</resources>
